@@ -1,7 +1,7 @@
 #Hi this is new conflict in GIT.
 
-## Checkout new projects
+## New project
 
 
-### new email : wsbfrontend@projekty.pl
+### new email : klaudia@projekty.pl
 
